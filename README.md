@@ -4,6 +4,7 @@
 
 - 🔭 Eu estou trabalhando com Prevenção de Perdas 
 - 🌱 Estudo Analise e Desenvolvimento de Sistemas 
+- 😃 Procurando por uma oportunidade de estágio
 
 <div>
   <a href="https://github.com/Vitor-Rei">
