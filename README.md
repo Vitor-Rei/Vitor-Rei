@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Eu estou trabalhando com Prevenção de Perdas 
+- 🔭 Estudo Engenharia de qualidade de software
 - 🌱 Estudo Analise e Desenvolvimento de Sistemas 
-- 😃 Procurando por uma oportunidade de estágio
+- 😃 Procurando por uma oportunidade de estágio como QA
 
 <div>
   <a href="https://github.com/Vitor-Rei">
